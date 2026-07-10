@@ -23,7 +23,3 @@ I'm a Computer Engineering student at the University of Toronto.
 * 💻 Deep diving into high-performance embedded systems and hardware acceleration.
 * 🎛️ Exploring digital signal processing and real-time audio applications.
 
----
-
-### 📊 Contribution Graph
-![](./profile-3d-contrib/profile-green-animate.svg)
