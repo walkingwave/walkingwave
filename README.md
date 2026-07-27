@@ -1,8 +1,8 @@
-# Hi there, I'm Dylan 👋
+# Hi there, I'm Dylan 
 
 I'm a Computer Engineering student at the University of Toronto. 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=black)
@@ -29,7 +29,6 @@ I'm a Computer Engineering student at the University of Toronto.
 
 ---
 
-### 🚀 What I'm Working On
-* 💻 Deep diving into high-performance embedded systems, low-level architecture, and hardware acceleration.
-* 🧠 Developing intelligent systems utilizing machine learning models and data-driven analysis.
-* 🎛️ Exploring digital signal processing and real-time audio applications.
+###  What I'm Working On
+* https://portfo.dev
+* a bunch of other cool stuff
