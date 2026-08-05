@@ -32,3 +32,5 @@ I'm a Computer Engineering student at the University of Toronto.
 ###  What I'm Working On
 * https://portfo.dev
 * a bunch of other cool stuff
+
+Feel free to reach out!
