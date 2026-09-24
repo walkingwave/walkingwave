@@ -1,6 +1,7 @@
-# Hi there, I'm Dylan 
+# yo 
 
-I'm a Computer Engineering student at the University of Toronto. 
+ Computer Engineering student @ University of Toronto. 
+ 
 
 
 ### Tech Stack
@@ -40,6 +41,6 @@ I'm a Computer Engineering student at the University of Toronto.
 ### What I'm Working On
 
 * https://portfo.dev
-* a bunch of other cool stuff
+* AI/ML Research
 
 Feel free to reach out!
