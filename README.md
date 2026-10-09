@@ -1,6 +1,6 @@
-# Dylan Ho
+#Hey, I'm Dylan!
 
- Computer Engineering student @ University of Toronto. 
+Currently a Computer Engineering student @ University of Toronto. 
  
 
 
@@ -42,5 +42,6 @@
 
 * https://portfo.dev
 * AI/ML Research
+* GPU inference
 
 Feel free to reach out!
