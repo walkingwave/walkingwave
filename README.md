@@ -13,8 +13,8 @@ Computer Engineering student @ University of Toronto.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkingwave/walkingwave/main/profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/walkingwave/walkingwave/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" />
 </picture>
 
 </div>
